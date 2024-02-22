@@ -1,5 +1,5 @@
 <h1 align="center">
-🗂・Films Bot・⚙
+🗂・Xenon Bot・⚙
 </h1>
 
 ---
@@ -18,8 +18,8 @@ Si vous souhaitez modifier la configuration, ouvrez [nfig.json](https://discord.
 
 ```js
 {
-    "clientToken": "Put-Token-Here",
-    "mongoUrl": "Mongo Uri Here"
+    "token": "Put-Token-Here",
+    "prefix": ["+"]
 }
 ```
 
